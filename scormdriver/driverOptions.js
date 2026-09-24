@@ -6,4 +6,5 @@ function loadDriverOptions (scope) {
   scope.FORCED_COMMIT_TIME = 20000;
   scope.strLMSStandard = "SCORM";
   scope.REVIEW_MODE_IS_READ_ONLY = false;
+  scope.ONLY_LOAD_IN_LMS = false
 }
